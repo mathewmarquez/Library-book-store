@@ -1,6 +1,6 @@
 import React from "react";
 //import UndrawBooks from "../assets/Undraw_Books.svg";
-import morebooks from "../assets/morebooks.png"
+import morebooks from "../assets/Library_shelf.png"
 
 const Landing = () => {
   return (
