@@ -301,7 +301,7 @@ HIGHLIGHTS
   background: url("./assets/wave.svg");
   content: "";
   position: absolute;
-  width: 104vw;
+  width: 105vw;
   height: 12.5vw;
   left: 0;
   z-index: 1;
@@ -473,7 +473,7 @@ footer {
 }
 
 .footer__logo--img {
-  width: 150px;
+  width: 140px;
 }
 
 .footer__link,
@@ -774,11 +774,11 @@ select {
   }
 
   h1 {
-    font-size: 40px;
+    font-size: 36px;
   }
 
   h2 {
-    font-size: 26px;
+    font-size: 28px;
   }
 
   button {
