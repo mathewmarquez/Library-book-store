@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.ac149acd.css",
-    "main.js": "/static/js/main.af89baeb.js",
-    "static/media/morebooks.png": "/static/media/morebooks.f98cdc9bc71407ec132a.png",
+    "main.css": "/static/css/main.f8917bb9.css",
+    "main.js": "/static/js/main.6b518135.js",
     "static/media/Library_main.svg": "/static/media/Library_main.6431a4a5cff3cf3e41078c709f9b97b4.svg",
+    "static/media/Library_shelf.png": "/static/media/Library_shelf.1fb394d285dce221c56f.png",
     "static/media/empty_cart.svg": "/static/media/empty_cart.378125a834ec5473a1cffd7c59e06527.svg",
     "index.html": "/index.html",
-    "static/media/wave.svg": "/static/media/wave.42edd5970e3619090a0f.svg",
-    "main.ac149acd.css.map": "/static/css/main.ac149acd.css.map",
-    "main.af89baeb.js.map": "/static/js/main.af89baeb.js.map"
+    "static/media/wave.svg": "/static/media/wave.47e43130c0ee9f20a86d.svg",
+    "main.f8917bb9.css.map": "/static/css/main.f8917bb9.css.map",
+    "main.6b518135.js.map": "/static/js/main.6b518135.js.map"
   },
   "entrypoints": [
-    "static/css/main.ac149acd.css",
-    "static/js/main.af89baeb.js"
+    "static/css/main.f8917bb9.css",
+    "static/js/main.6b518135.js"
   ]
 }
