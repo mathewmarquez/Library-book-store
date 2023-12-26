@@ -19,7 +19,8 @@ Navigation: Seamless navigation through multiple pages for a user-friendly exper
 Skeleton Loading: Visual enhancement with skeleton loading for a smoother loading experience.
 
 ####Technologies Used
-HTML
-CSS
-JavaScript
-React
+
+-HTML
+-CSS
+-JavaScript
+-React
